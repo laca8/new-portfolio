@@ -91,7 +91,7 @@ const projects = [
         },
     },
         {
-        img: "",
+        img: project9,
         title: "Project #9",
         description:
           "Build by using ReactJS",
@@ -101,7 +101,7 @@ const projects = [
         },
         },
     {
-        img: "",
+        img:project10 ,
         title: "Project #10",
         description:
           "Build by using ReactJS",
