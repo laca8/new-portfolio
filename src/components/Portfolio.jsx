@@ -77,7 +77,38 @@ const projects = [
           site: "https://jobfinder-5zac.vercel.app/",
           github: "#",
         },
-      }
+      },
+    {
+        img: "",
+        title: "Project #8",
+        description:
+          "Build by using ReactJS",
+        links: {
+          site:"https://travel-booking.onrender.com/" ,
+          github: "#",
+        },
+    },
+        {
+        img: "",
+        title: "Project #9",
+        description:
+          "Build by using ReactJS",
+        links: {
+          site:"https://job-seeking-pi.vercel.app/",
+          github: "#",
+        },
+        },
+    {
+        img: "",
+        title: "Project #10",
+        description:
+          "Build by using ReactJS",
+        links: {
+          site:"https://hosbital-management.vercel.app/",
+          github: "#",
+        },
+    }
+    
 ]
 
 const Portfolio = () => {
