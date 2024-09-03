@@ -99,7 +99,10 @@ const Hero = () => {
 
           <div className="text-7xl flex justify-start gap-4">
             <AiFillLinkedin className="text-gray-600" />
+            <a href="https://github.com/laca8">
             <AiFillGithub className="text-gray-600"  />
+            </a>
+            
             <AiFillInstagram className="text-gray-600"  />
           </div>
 
